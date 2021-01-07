@@ -1,15 +1,18 @@
-/* rs-theme-name: Pastel On Dark */
+/* rs-theme-name: MyOwn */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
-  background: #353030;
-  color: #8F938F
+  background: #11111C;
+  color: #c1c3d4
 }
 .ace_print-margin {
   width: 1px;
   background: #333;
 }
-.ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #2C2828;
+.ace_editor, 
+.rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, 
+.rstudio-themes-flat.ace_editor_theme, 
+.rstudio-themes-flat .ace_editor_theme {
+  background-color: #1C1C2D; /* 2C2828*/
   color: #8F938F
 }
 .ace_cursor {
@@ -19,7 +22,7 @@
   background: rgba(221, 240, 255, 0.20)
 }
 .ace_selection.ace_start {
-  box-shadow: 0 0 3px 0px #2C2828;
+  box-shadow: 0 0 3px 0px #1C1C2D; /* 2C2828*/
   border-radius: 2px
 }
 .ace_marker-layer .ace_step {
@@ -43,10 +46,11 @@
 }
 .ace_keyword,
 .ace_meta {
-  color: #757aD8
+  color: #757aD8 
 }
 .ace_constant,
 .ace_constant.ace_character,
+.ace_constant.ace_numeric,
 .ace_constant.ace_character.ace_escape,
 .ace_constant.ace_other {
   color: #4FB7C5
@@ -55,13 +59,13 @@
   color: #797878
 }
 .ace_constant.ace_character {
-  color: #AFA472
+  color: #ecd672 /*AFA472*/
 }
 .ace_constant.ace_language {
   color: #DE8E30
 }
 .ace_constant.ace_numeric {
-  color: #CCCCCC
+  color: #DE8E30
 }
 .ace_invalid,
 .ace_invalid.ace_illegal {
@@ -78,16 +82,16 @@
   border-color: #8F938F
 }
 .ace_support.ace_function {
-  color: #AEB2F8
+  color: #ffcb8e  /*AEB2F8*/
 }
 .ace_string {
-  color: #66A968
+  color: #A6C6FF
 }
 .ace_string.ace_regexp {
   color: #E9C062
 }
 .ace_comment {
-  color: #A6C6FF
+  color: #66A968
 }
 .ace_variable {
   color: #BEBF55
@@ -102,7 +106,7 @@
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWNgYGBgYIiPj/8PAARgAh2NTMh8AAAAAElFTkSuQmCC) right repeat-y
 }
 .nocolor.ace_editor .ace_line span {
-  color: #757ad8 !important;
+  color: #ffcb8e !important; /*757ad8*/
 }
 .ace_bracket {
   margin: 0 !important;
@@ -112,7 +116,7 @@
 .ace_marker-layer .ace_foreign_line {
   position: absolute;
   z-index: -1;
-  background-color: #3F3B3B;
+  background-color: rgba(99, 106, 141, 0.5); /*3F3B3B*/
 }
 .ace_marker-layer .ace_active_debug_line {
   position: absolute;
@@ -131,7 +135,7 @@
   color: #AAAAAA !important;
 }
 .terminal {
-  background-color: #2C2828;
+  background-color: #020011;
   color: #EAEAEA;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -158,10 +162,10 @@
    background-color: #CCC;
 }
 .terminal .xterm-viewport {
-  background-color: #2C2828;
+  background-color: #020011;
   overflow-y: scroll;
 }
-.xtermInvertColor { color: #2C2828; }
+.xtermInvertColor { color: #020011; }
 .xtermInvertBgColor { background-color: #EAEAEA; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
