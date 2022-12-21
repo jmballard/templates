@@ -37,7 +37,8 @@ Here is the content of this repo:
 
 Here is an example of the pastel_on_dark rstudio theme:
 
-![pastel on dark](https://github.com/jmballard/templates/templates/pastel_on_dark_example.png)
+![pastel_on_dark_example](https://user-images.githubusercontent.com/29840762/208941136-e1812254-bef7-4b05-8671-bf4e157c47fd.png)
+
 
 ## License <a name="license"></a>
 
