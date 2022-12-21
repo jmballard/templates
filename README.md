@@ -1,4 +1,4 @@
-# temapltes
+# Templates
 
 ## Table of contents
 
@@ -37,7 +37,7 @@ Here is the content of this repo:
 
 Here is an example of the pastel_on_dark rstudio theme:
 
-![Alt text](templates/pastel_on_dark_example.png?raw=true "pastel_on_dark")
+![pastel on dark](https://github.com/jmballard/templates/templates/pastel_on_dark_example.png)
 
 ## License <a name="license"></a>
 
