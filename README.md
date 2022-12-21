@@ -7,7 +7,7 @@
 - [Visuals](#visuals)
 - [Credits](#credits)
 - [License](#license)
-- [Status] (#status)
+- [Status](#status)
 
 
 ## Motivations <a name="motivations"></a>
