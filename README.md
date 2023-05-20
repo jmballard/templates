@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Motivations](#motivations)
+- [Libraries used](#libraries)
 - [Files](#files)
 - [Visuals](#visuals)
 - [Credits](#credits)
@@ -13,6 +14,11 @@
 ## Motivations <a name="motivations"></a>
 
 This project is to save somewhere some templates that could be reusable for me and are not related to any R nor python functions.
+
+
+## Libraries used <a name="libraries"></a>
+
+Either list here or link to requirements.txt file
 
 
 ## Files <a name="files"></a>
