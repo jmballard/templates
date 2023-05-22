@@ -4,6 +4,7 @@
 
 - [Motivations](#motivations)
 - [Project description](#description)
+- [Visuals](#visuals)
 - [Packages used](#packages_used)
 - [Instructions](#instructions)
 - [Files](#files)
@@ -13,7 +14,7 @@
 - [Status] (#status)
 
 
-## Motivations and Summary <a name="motivations"></a>
+## Motivations <a name="motivations"></a>
 
 What was your motivation?
 Why did you build this project?
@@ -27,7 +28,7 @@ What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
 
-## Visuals
+## Visuals <a name="visuals"></a>
 
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). 
 

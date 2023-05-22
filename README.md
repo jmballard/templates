@@ -3,10 +3,12 @@
 ## Table of contents
 
 - [Motivations](#motivations)
-- [Libraries used](#libraries)
-- [Files](#files)
+- [Project description](#description)
 - [Visuals](#visuals)
-- [Credits](#credits)
+- [Packages used](#packages_used)
+- [Instructions](#instructions)
+- [Files](#files)
+- [Possible improvements](#improvements)
 - [License](#license)
 - [Status](#status)
 
@@ -15,11 +17,27 @@
 
 This project is to save somewhere some templates that could be reusable for me and are not related to any R nor python functions.
 
+## Project description <a name="description"></a>
 
-## Libraries used <a name="libraries"></a>
+Currently, this package contains a README template, and Rstudio themes in CSS.
 
-Either list here or link to requirements.txt file
+## Visuals
 
+Here is an example of the pastel_on_dark rstudio theme:
+
+![pastel_on_dark_example](https://user-images.githubusercontent.com/29840762/208941136-e1812254-bef7-4b05-8671-bf4e157c47fd.png)
+
+## Packages used <a name="packages_used"></a>
+
+None - there is no Python nor R code.
+
+## Instructions <a name="instructions"></a>
+
+You can clone this repository by opening Git Bash and the command line
+
+```text
+git clone https://github.com/jmballard/templates.git
+```
 
 ## Files <a name="files"></a>
 
@@ -29,6 +47,8 @@ Here is the content of this repo:
 
 - r_studio_themes
 | - pastel_on_dark
+| - pastel_on_dark_example.png
+
 
 - templates
 |- README_template.md
@@ -39,11 +59,12 @@ Here is the content of this repo:
 
 ```
 
-## Visuals
+## Possible improvements on this project: <a name="improvements"></a>
 
-Here is an example of the pastel_on_dark rstudio theme:
+It would be great to have different templates for
 
-![pastel_on_dark_example](https://user-images.githubusercontent.com/29840762/208941136-e1812254-bef7-4b05-8671-bf4e157c47fd.png)
+- reports on model quality / performance
+- reports on data quality
 
 
 ## License <a name="license"></a>
