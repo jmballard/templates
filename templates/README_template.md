@@ -11,6 +11,7 @@
 - [Possible improvements](#improvements)
 - [Credits](#credits)
 - [License](#license)
+- [Links](#links)
 - [Status] (#status)
 
 
@@ -109,6 +110,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Links <a name="links"></a>
+
+Links to any web page if any
 
 ## Project status  <a name="status"></a>
 
