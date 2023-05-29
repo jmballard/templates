@@ -59,6 +59,11 @@ To link to pictures:
 
 How to install and run the project
 
+You can clone this repository by opening Git Bash and the command line
+
+```text
+git clone https://github.com/jmballard/NAME_OF_REPO.git
+```
 
 ## Files <a name="files"></a>
 
