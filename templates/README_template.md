@@ -4,6 +4,7 @@
 
 - [Motivations](#motivations)
 - [Project description](#description)
+- [Data used](#data)
 - [Visuals](#visuals)
 - [Packages used](#packages_used)
 - [Instructions](#instructions)
@@ -12,7 +13,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
-- [Status] (#status)
+- [Status](#status)
 
 
 ## Motivations <a name="motivations"></a>
@@ -29,7 +30,11 @@ What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
 
-### Data used (if any)
+- step by step of pipeline / modelling
+- summary on data (unless in section below)
+
+
+## Data used (if any) <a name="data"></a>
 
 Description of the public data used in this Project
 
