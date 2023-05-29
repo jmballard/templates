@@ -29,6 +29,10 @@ What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
 
+### Data used (if any)
+
+Description of the public data used in this Project
+
 ## Visuals <a name="visuals"></a>
 
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). 
